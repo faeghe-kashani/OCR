@@ -1,0 +1,2 @@
+# OCR
+PyTesseract_EasyOCR
